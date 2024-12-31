@@ -1,0 +1,38 @@
+
+/* Tema Nord para Wofi */
+
+/* Estilo general del menú */
+* {
+    background-color: #2e3440; /* Fondo oscuro */
+    color: #d8dee9;             /* Texto claro */
+    font-family: "Monospace";
+    font-size: 16px;
+    border-radius: 10px;
+
+    padding: 1px;                        /* Espaciado interno */
+    margin: 1px;                         /* Margen exterior */
+}
+
+#input {
+    border: 2px solid #ffffff; /* Borde blanco en la barra de búsqueda */
+    background-color: #3b4252;
+    color: #d8dee9;
+    padding: 5px;
+    border-radius: 5px;
+
+    padding: 9px;
+    margin: 13px;                         /* Margen exterior */
+  
+}
+
+/* Botones */
+#entry:selected {
+    background-color: #5e81ac; /* Azul Nord */
+    color: #eceff4;           /* Blanco suave */
+}
+
+#outer-box {
+  border-radius: 10px;
+  border: 3px solid #ffffff
+}
+

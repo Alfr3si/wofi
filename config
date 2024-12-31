@@ -1,0 +1,28 @@
+[general]
+#correr con configuraciones de usuario
+mode=drun
+
+#mostrar iconos de aplicaciones
+allow_images=true
+
+# Tamaño de la fuente
+font=Monospace Bold 12
+
+# Posición del menú en el centro
+position=center
+
+# Configuración para hacerlo a pantalla completa
+width=30%
+height=30%
+
+# Número de columnas y filas (ajusta según tu preferencia)
+columns=1
+lines=9
+
+# Ocultar la barra de desplazamiento si no es necesario
+hide-scrollbar=true
+
+
+#texto del input
+prompt=Search
+
